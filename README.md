@@ -22,7 +22,7 @@ Merhaba ,Ben Cem Tekin. Çanakkale Onsekiz Mart Üniversitesi 4.sınıf Bilgisay
 <img src="https://rm.up.railway.app/" width="512px"/>
 
   ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/https://bmc.link/cemtekingss) 
+  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/cemtekingss) 
 
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
