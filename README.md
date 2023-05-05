@@ -1,5 +1,5 @@
 # 💫 About Me:
-Merhaba ,Ben Cem . Çanakkale Onsekiz Mart Üniversitesi 4.sınıf Bilgisayar Mühendisliği  öğrencisiyim.<br>🔭 Java Spring Framework ile web tabanlı uygulamalar geliştirme<br>👀 C# Windows form kullanarak masaüstü uygulamalar geliştirme<br> 🖥️HTML-CSS-Bootstrap kullanarak web sitelerin tasarlanması ve Php ile kodlanması  <br>🤓 SQL veritabanı sorgulama dili ve ilişkisel veri tabanı tasarlanması ile ilgileniyorum.<br>🌱 Yeniliklere açık, öğrenmeye istekli ,değişime uyum sağlayan ,araştırmayı seven,<br>⚡ Kendimi her geçen gün daha fazla geliştirmeye çalışan biriyim
+Merhaba ,Ben Cem . Çanakkale Onsekiz Mart Üniversitesi 4.sınıf Bilgisayar Mühendisliği  öğrencisiyim.<br>🔭 Java Spring Framework ile web tabanlı uygulamalar geliştirme<br>👀 C# Windows form kullanarak masaüstü uygulamalar geliştirme<br> 🖥️ HTML-CSS-Bootstrap kullanarak web sitelerin tasarlanması ve Php ile kodlanması  <br>🤓 SQL veritabanı sorgulama dili ve ilişkisel veri tabanı tasarlanması ile ilgileniyorum.<br>🌱 Yeniliklere açık, öğrenmeye istekli ,değişime uyum sağlayan ,araştırmayı seven,<br>⚡ Kendimi her geçen gün daha fazla geliştirmeye çalışan biriyim
 
 
 ## 🌐 Socials:
