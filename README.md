@@ -3,7 +3,7 @@ Merhaba ,Ben Cem . Çanakkale Onsekiz Mart Üniversitesi 4.sınıf Bilgisayar M�
 
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/cem.tekin) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.![WebDevWebsiteDevelopmentGIF](https://user-images.githubusercontent.com/57825304/236411016-bae41f20-46a8-4f66-a816-246be7491d55.gif)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/cem.tekin) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.!(https://user-images.githubusercontent.com/57825304/236411016-bae41f20-46a8-4f66-a816-246be7491d55.gif)
 com/in/https://www.linkedin.com/in/cem-tekin-393669214/) 
 
 # 💻 Tech Stack:
